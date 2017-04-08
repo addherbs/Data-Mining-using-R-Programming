@@ -1,0 +1,16 @@
+﻿,,,,,,
+[1],"{Class=Crew,Survived=No}",=>,{Age=Adult},0.3057701,1,1.0521033
+[2],"{Class=Crew,Sex=Male}",=>,{Age=Adult},0.3916402,1,1.0521033
+[3],"{Class=Crew,Sex=Male,Survived=No}",=>,{Age=Adult},0.3044071,1,1.0521033
+[4],"{Class=Crew,Age=Adult,Survived=No}",=>,{Sex=Male},0.3044071,0.9955423,1.2658514
+[5],"{Class=Crew,Age=Adult}",=>,{Sex=Male},0.3916402,0.9740113,1.2384742
+[6],"{Sex=Male,Survived=Yes}",=>,{Age=Adult},0.1535666,0.9209809,0.968967
+[7],{Survived=Yes},=>,{Age=Adult},0.2971377,0.9198312,0.9677574
+[8],"{Sex=Female,Survived=Yes}",=>,{Age=Adult},0.1435711,0.9186047,0.9664669
+[9],"{Class=3rd,Sex=Male,Survived=No}",=>,{Age=Adult},0.1758292,0.9170616,0.9648435
+[10],{Class=2nd},=>,{Age=Adult},0.1185825,0.9157895,0.9635051
+[11],"{Class=3rd,Sex=Male}",=>,{Age=Adult},0.2099046,0.9058824,0.9530818
+[12],{Sex=Female},=>,{Age=Adult},0.193094,0.9042553,0.95137
+[13],"{Class=3rd,Survived=No}",=>,{Age=Adult},0.2162653,0.9015152,0.948487
+[14],{Class=3rd},=>,{Age=Adult},0.2848705,0.888102,0.934375
+[15],"{Class=3rd,Age=Adult,Survived=No}",=>,{Sex=Male},0.1758292,0.8130252,1.0337773
